@@ -1793,7 +1793,7 @@ blockquote.review {
 .about-section {
     position: relative;
     padding: 80px 0;
-    background: url('/images/bg/about-bg.jpg') no-repeat center center;
+    background: url('/images/about-bg.jpg') no-repeat center center;
     background-size: cover;
     color: #fff;
 }
@@ -2041,3 +2041,4 @@ nav .nav-link.active {
 .config-panel .close .fa-solid {
     font-size: 18px;
 }
+
